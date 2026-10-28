@@ -15,6 +15,8 @@ lists every file with its hash and size.
 | Earth | `looks/earth@1/model.vrm` |
 | Water | `looks/water@1/model.vrm` |
 | Kosmos (companion) | `looks/companion-kosmos@1/model.vrm` |
+| Alchemist (male) | `looks/alchemist-male@1/model.vrm` |
+| Genie wizard (female) | `looks/genie-wizard-female@1/model.vrm` |
 
 ## License
 
